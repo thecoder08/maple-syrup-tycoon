@@ -1,0 +1,23 @@
+{
+  "name": "maple-syrup-tycoon",
+  "version": "1.0.1",
+  "description": "A game about maple syrup",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoder08/maple-syrup-tycoon.git"
+  },
+  "author": "thecoder08",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecoder08/maple-syrup-tycoon/issues"
+  },
+  "homepage": "https://github.com/thecoder08/maple-syrup-tycoon#readme",
+  "dependencies": {
+    "@thecoder08/docuget": "github:thecoder08/docuget",
+    "simplex-noise": "^3.0.1"
+  }
+}
